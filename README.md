@@ -5,4 +5,4 @@
 
 [Data Slides](https://docs.google.com/presentation/d/1BOMFpKkecm3TDqE56MWQ8DSH3EW7JMsulmim4nEyllw/edit?usp=sharing)
 
-[TicTacToe](https://courtneybrookes.github.io/Fall2023/TicTacToeGame) 
+[TicTacToe](https://courtneybrookes.github.io/Fall2023/TicTacToe/) 
