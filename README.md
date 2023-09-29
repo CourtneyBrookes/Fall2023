@@ -11,3 +11,13 @@
 [Coin Flip](https://courtneybrookes.github.io/Coinflip/)
 
 [Countdown](https://courtneybrookes.github.io/Countdown/)
+
+[Food Picker](https://courtneybrookes.github.io/RandomPicker/) 
+
+[Trash Night](https://courtneybrookes.github.io/TrashNight/)
+
+[Dice](https://courtneybrookes.github.io/Dice/)
+
+[Calendar](https://courtneybrookes.github.io/Weekly-Calendar/)
+
+[To-do-list](https://courtneybrookes.github.io/ToDoList/)
